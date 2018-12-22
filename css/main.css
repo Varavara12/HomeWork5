@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+body{
+	font-family: 'Open Sans', sans-serif;
+	background-color:#ebf0f5;
+	color:#646464;
+	margin: 0 auto;
+}
+#main{
+	width: 1294px;
+	background-color: #fff;
+	margin-top: -10px;
+	padding-top: 25px;
+	margin: 0 auto;
+}
+section{
+	margin: auto;
+	text-align: center;
+	width: 850px;
+	padding-bottom: 100px;
+}
+h1{
+	font-size: 50px;
+	font-style: 'Open Sans', sans-serif;
+}
+p{
+	font-size: 20px;
+	line-height: 1,75;
+	text-align: justify;
+}
+.fact{
+	background-color: #ebf5f5;
+}
+h2{
+	font-size: 26px;
+	padding-top: 30px;
+}
+ul{
+	font-size: 16px;
+	text-align: left;
+	padding-top: auto;
+	padding-bottom: 30px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+li{
+	margin-top: 20px;
+}
+hr{
+	color: #e5e5e5;
+	margin-top: 50px;
+}
+.za-chertoy p{
+font-size: 16px;
+margin-right: 20px;
+}
+a{
+font-weight: 800;
+font-size: 16px;
+color: #3075b8;
+}
+img{
+	padding-top: 50px;
+}
+.kartinka p{
+	color: #f7862a;
+	font-size: 26px;
+	text-align: center;
+	padding: 50px 70px 50px 70px;
+}
+.Challenges p{
+font-size: 16px;
+margin-right: 20px;	
+}
+.Standardisation p{
+font-size: 16px;
+margin-right: 20px;
+}
